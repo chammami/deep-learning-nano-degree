@@ -13,6 +13,11 @@ Projects are structured as in this tree file:
 │   ├── dog_app.ipynb
 │   ├── report.html
 │   └── report.pdf
+├── face_generation				# Face generation with GANs
+│   ├── dlnd_face_generation.html
+│   ├── dlnd_face_generation.ipynb
+│   ├── problem_unittests.py
+│   └── workspace_utils.py
 ├── README.md
 └── tv_script_generation			# TV script generation
     ├── dlnd_tv_script_generation.html
