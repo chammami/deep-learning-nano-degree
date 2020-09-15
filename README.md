@@ -1,4 +1,4 @@
-#Udacity deep learning nano-degree
+# Udacity deep learning nano-degree
 
 This repository hosts my solutions to Udacity Deep Learning nano-degree. The original notebooks can be found here.
 
